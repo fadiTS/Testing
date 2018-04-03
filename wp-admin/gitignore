@@ -1,0 +1,4 @@
+.gitignore
+.htaccess
+public_html/wp-config.php
+public_html/wp-content/uploads/
